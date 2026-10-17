@@ -6,7 +6,7 @@ pkg install python -y
 pip install colorama
 
 echo -e "\e[1;32m[+] Downloading RED DDOS Tool...\e[0m"
-curl -sL https://raw.githubusercontent.com/sabbiroox/Red-DDOS/main/tool.py -o tool.py
+curl -sL https://raw.githubusercontent.com/sabbirooox/REd-DDOS/main/tool.py -o tool.py
 
 chmod +x tool.py
 
